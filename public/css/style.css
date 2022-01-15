@@ -1,0 +1,54 @@
+html{
+	height: 100%;
+}
+body{
+	100%;
+}
+
+.padding-left{
+	padding-left: 20px;
+}
+.navbar-collapse {
+    margin-bottom: -7px;
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+}
+.navbar-brand {
+    margin-bottom: 5px;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.backgroud-image{
+	background-image: url('https://cdn.pixabay.com/photo/2021/08/20/22/05/flowers-6561379_960_720.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+	width: 100%;
+}
+.form-padding{
+	padding: 5px;
+	margin: 10px 0px 5px 20px;
+}
+.hr-bordera{
+	border-color: black solid 10px;
+	width: 80%;
+	color: red;
+}
+
+.paginate-style{
+	align-items: center;
+}
+
+
+.take-space{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
